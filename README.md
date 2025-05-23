@@ -1,16 +1,5 @@
-# history_app
-
-History app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is the hobby 2-day project.
+I created a history app that can display topics and information for each topic based on the data inputted in Excel spreadsheet. 
+It supports title texts, ordinary texts, buttons, and images as data inputs. 
+Also, there is a simple testing page, which is also implemented through Excel.
+Furthermore, there is "Ask GPT" function that I kindly "stole" from GeeksForGeeks (reference is in the file).
